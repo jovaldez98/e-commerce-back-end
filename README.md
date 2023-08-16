@@ -12,4 +12,4 @@ https://github.com/jovaldez98/e-commerce-back-end/assets/125123860/e85c33ed-9d87
 In order to seed the data of the application, run the command "npm run seed", then run the command "npm run start" to start the application.
 
 ## Test
-Insomnia was used to run the tests for one category/categories, one tag/tags and one product/products.
+Insomnia was used to run the tests.
